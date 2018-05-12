@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32059
     wikipedia: http://en.wikipedia.org/wiki/Max_Pemberton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28326#Aladdin-of-London--Or-Lodestar
 gutenberg_issued: '2009-03-15'
 gutenberg_type: Text
 identifiers:
